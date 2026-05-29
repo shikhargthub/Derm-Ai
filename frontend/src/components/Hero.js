@@ -53,7 +53,7 @@ function Hero() {
 
         <div className="hero-stats">
           <div className="hero-stat">
-            <span className="stat-n">10+</span>
+            <span className="stat-n">6</span>
             <span className="stat-l">Conditions</span>
           </div>
           <div className="hero-stat-divider" />
