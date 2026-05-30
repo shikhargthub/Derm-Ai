@@ -21,7 +21,7 @@ An AI-powered dermatology web application that detects **6 skin conditions** fro
 - 📊 **Confidence Score** — Displays prediction accuracy percentage
 - 💊 **Treatment & Medicine Suggestions** — Condition-specific clinical guidance
 - 📚 **Disease Awareness Cards** — Info on all 6 detectable conditions
-- 💡 **Skincare Tips** — 5+ daily skincare tips for users
+- 💡 **Skincare Tips** — 6+ daily skincare tips for users
 
 ---
 
@@ -92,7 +92,18 @@ cd Derm-Ai
 
 ```bash
 cd backend
+
+# Create virtual environment
+python -m venv venv
+
+# Activate virtual environment
+source venv/bin/activate        # Mac/Linux
+venv\Scripts\activate           # Windows
+
+# Install dependencies
 pip install -r requirements.txt
+
+# Run server
 python app.py
 ```
 
