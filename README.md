@@ -10,7 +10,7 @@ An AI-powered dermatology web application that detects **6 skin conditions** fro
 
 ## 🖼️ Demo
 
-![DermAI Demo](./demo@.jpg)
+![DermAI Demo](demo@dermai.jpg)
 
 ---
 
